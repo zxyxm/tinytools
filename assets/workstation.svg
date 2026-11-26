@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>工作台 Workstation</title>
+  <desc>深紫底上的两块白色工具卡片和带拉手的亮绿色侧栏。</desc>
+  <defs>
+    <linearGradient id="base" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop stop-color="#41377E"/>
+      <stop offset="1" stop-color="#211B45"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="56" fill="url(#base)"/>
+  <rect x="50" y="60" width="78" height="54" rx="13" fill="#F7F5FF"/>
+  <rect x="50" y="142" width="78" height="54" rx="13" fill="#F7F5FF"/>
+  <path fill="#D7FF69" d="M164 60 H190 Q206 60 206 76 V180 Q206 196 190 196 H164
+    Q148 196 148 180 V143 H139 Q132 143 132 136 V120 Q132 113 139 113 H148
+    V76 Q148 60 164 60 Z"/>
+</svg>
